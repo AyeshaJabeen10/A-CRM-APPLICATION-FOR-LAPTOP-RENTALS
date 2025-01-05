@@ -13,4 +13,4 @@ Report
 Dashboard
 ![Screenshot 2025-01-05 152646](https://github.com/user-attachments/assets/1131e78c-df5b-43c2-ab75-0c03d3086d3d)
 Analytics
-![Screenshot 2025-01-05 152646](https://github.com/user-attachments/assets/7c7fe0ee-e362-490b-9514-f3d85c08afbc)
+![Screenshot 2025-01-05 152758](https://github.com/user-attachments/assets/d7da9e58-d0d6-42e9-ab18-e08070decb00)
